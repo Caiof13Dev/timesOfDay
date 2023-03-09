@@ -1,0 +1,19 @@
+body{
+    background-color: #b0e0e6 ;
+    font: normal 15pt arial ;
+    text-align: center;
+    color: white;
+}
+div{
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px 1px #6f6f6f;
+}
+
+#hours{
+    color: black;
+}
